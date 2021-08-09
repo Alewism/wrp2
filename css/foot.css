@@ -1,0 +1,158 @@
+/************************** Footer *************************************/
+.foot{
+    height: 280px;
+    /* background: rgb(0, 0, 0); */
+    background:#1c1d1d;
+    color: rgb(39, 36, 36);
+    grid-column: span 3;
+    border-radius: 3px;
+    border-bottom: 50px solid rgb(19, 19, 19);
+    
+}
+.contenedor .foote{
+    height: 140px;
+    background: rgb(46, 45, 45);
+    color:rgb(39, 36, 36);
+    grid-column: span 3;
+}
+.infor{
+    color:#fff;
+    font-size: 13px;
+    font-family:'OpenSans-Regular';
+    margin-left: 123px;
+    margin-top: 15px;
+}
+.infor:hover{
+    color:rgb(156, 156, 153);
+    cursor: pointer;
+}
+.prove{
+    color:#fff;
+    font-size: 15px;
+    font-family:'OpenSans-Regular';
+    margin-left: 123px;
+    margin-top: 12px;
+}
+.prove:hover{
+    color:rgb(129, 129, 126);
+    cursor: pointer;
+}
+.tiend{
+    color:#fff;
+    font-size: 13px;
+    font-family:'OpenSans-Regular';
+    margin-left: 123px;
+    margin-top: 12px;
+}
+.tiend:hover{
+    color:rgb(129, 129, 126);
+    cursor: pointer;
+}
+.corro{
+    color:#fff;
+    font-size: 13px;
+    font-family:'OpenSans-Regular';
+    margin-left: 123px;
+    margin-top: 12px;
+}
+.corro:hover{
+    color:rgb(132, 112, 248);
+    cursor: pointer;
+}
+.tell{
+    color:#fff;
+    font-size: 13px;
+    font-family: sans-serif;
+    margin-left: 123px;
+    margin-top: 12px;
+}
+.tell:hover{
+    color:rgb(105, 91, 185);
+    cursor: pointer;
+}
+/***************************************************************/
+.jd{
+    color: #fff;
+    font-size: 23px;
+    font-family:'OpenSans-Regular';
+    font-weight: 900;
+    margin-left: 123px;
+    margin-top: 20px;
+    width: 90px;
+    height: 40px;
+    border-radius: 3px;
+    background: rgb(47, 47,47);
+    text-align: center;
+    justify-content: center;
+}
+.copyjd{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-family:'OpenSans-Regular';
+    font-weight: 900;
+    margin-left: 403px;
+    margin-top: 82px;
+}
+.servcos{
+    color: #fff;
+    font-size: 23px;
+    font-family:'OpenSans-Regular';
+    font-weight: 600;
+    margin-left: 423px;
+    margin-top: -40px;
+    position: absolute;
+    z-index: auto;
+}
+/* --------------------------------------REDES SOCIALES------------------------------------------------ */
+figure{
+margin-left: 725px;
+margin-top: -130px;
+position: absolute;
+z-index: auto;
+}
+.cardet{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+}
+.rdscials{
+    color: #fff;
+    font-size: 23px;
+    font-family:'OpenSans-Regular';
+    font-weight: 600;
+    margin-left: 753px;
+    margin-top: -40px;
+    position: absolute;
+    z-index: auto;
+}
+
+/* ---------------RED DE INFORMACION---------- */
+.icon{
+    margin-left: 123px;
+}
+.icon1{
+    width: 25px;
+    height: 25px;
+    display: block;
+    margin-left: 280px;
+    padding: 4px;
+    margin-top: -22px;
+}
+.inff{
+    color: #fff;
+    font-size: 13px;
+    font-family: monospace;
+    margin-left: 323px;
+    margin-top: 5px;
+}
+.busc{
+    width: 230px;
+    height: 30px;
+    border-radius: 6px;
+    border: 1px solid rgb(253, 17, 253);
+    margin-top: -93px;
+    margin-right: 10px;
+}
+.bus:hover{
+    background: rgb(223, 221,221);
+}
